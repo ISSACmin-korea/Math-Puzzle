@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/New Unity Project (4)/Assets/1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
